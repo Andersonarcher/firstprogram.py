@@ -40,5 +40,3 @@ Este código é um programa que valida e consulta CPFs no site Jusbrasil para ve
 ### Detalhes Importantes:
    - **Validação do CPF**: A função aplica uma fórmula matemática que verifica a integridade do CPF.
    - **Consulta no Jusbrasil**: O Jusbrasil é consultado via uma busca simples, e o sistema retorna se o CPF tem ou não processos.
-
-Essa explicação pode ajudar seu chefe a entender como o programa pode ser usado para verificar rapidamente a validade de CPFs e se há registros de processos vinculados a eles.
